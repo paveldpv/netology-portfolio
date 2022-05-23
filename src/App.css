@@ -1,0 +1,22 @@
+
+#root {
+  width: 1080px;
+  margin: 50px auto;
+}
+.box{  
+  margin: 0 auto;
+}
+.toolbar{
+  display: flex;
+  justify-content: flex-start; 
+}
+button{
+  font-size: 18px;
+  padding: 5px;
+  margin: 15px;
+}
+.portfolio{
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
